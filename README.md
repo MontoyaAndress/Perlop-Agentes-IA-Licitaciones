@@ -1,4 +1,4 @@
-# 🤖 Sistema de Agentes IA para Licitaciones — Perlop Operadora de Alimentos
+# 🤖 Sistema de Agentes IA para la empresa Perlop Operadora de Alimentos
 
 > Sistema de agentes de inteligencia artificial (basados en Claude) para la automatización de búsqueda, seguimiento y llenado de documentación en procesos de licitación pública, con expansión posterior a otras áreas de la empresa.
 
